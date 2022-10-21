@@ -4,4 +4,4 @@ Dashboard criado como complemento do projeto de análise dos dados dos munícipi
 
 Saliento que o aplicativo demora um pouco para ser carregado e quando mudamos o estado leva tempo para a atualização, isso se dá principalmente porque a visualização de mapas gera tempo e consome bastante processamento. Fica aberto para mim a necessidade de estudo de como podemos contornar esse problema, tornando o aplicativo mais efetivo. Abaixo segue uma imagem dele, que também pode ser acessado clicando na imagem.
 
-![Dashboard Eleição]([https://pancake-sidecar-stumbling-ks7z.herokuapp.com/](https://i.ibb.co/PgS7FB3/Captura-da-Web-18-10-2022-235425-pancake-sidecar-stumbling-ks7z-herokuapp-com.jpg))
+![Dashboard Eleição](https://i.ibb.co/PgS7FB3/Captura-da-Web-18-10-2022-235425-pancake-sidecar-stumbling-ks7z-herokuapp-com.jpg)
